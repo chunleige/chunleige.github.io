@@ -13,8 +13,4 @@ I am a Ph.D. candidate in Statistics with extensive experience as a Graduate Res
 
 *The natural beauty of lakes and mountains is utterly captivating — Bow Lake at Banff National Park, Aug 2025*
 
-# if want centering:
-#<p align="center">
-#  <img src="/images/BowLake.jpg" alt="Me hiking in Banff" width="300"><br>
-#  <em>Me hiking in Banff, 2025</em>
-# </p>
+
