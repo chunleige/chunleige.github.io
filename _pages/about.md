@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Statistics at UBC Okanagan.
+I am a Ph.D. candidate in Statistics with extensive experience as a Graduate Research Assistant, showcasing a strong background in statistical research. I have also worked as a Graduate Teaching Assistant, instructing Math, Statistics, and Data courses over the past few years. I am proficient in statistical modeling, data analysis, research, teaching, and education. My academic credentials include a Master of Arts in Statistics from York University, and I am currently pursuing a Ph.D. in Mathematics with a focus on Statistics at UBC.
 
 A data-driven personal website
 ======
