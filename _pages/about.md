@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Statistics with extensive experience as a Graduate Res
 
 My expertise includes statistical modelling, data analytics, university teaching, and programming skills (R, Python, SAS, SQL, Git, etc.). Over the past five years, I've worked on developing advanced statistical models for analyzing wildfire patterns and environmental trends. What really drives me is a process of continuous exploration and advancement - learning new technologies, building useful tools, and solving problems.  
 
-Outside of work and studies, I'm interested in exploring nature and connecting with plants. Sometimes when inspiration strikes, I pick up my brushes and paint a watercolor, capturing landscapes and flowers.
+Outside of work and studies, I'm interested in exploring nature and connecting with plants. Sometimes, when inspiration strikes, I pick up my brushes and paint a watercolor, capturing the beauty of landscapes and flowers.
 
 I’m always seeking new challenges and opportunities for growth. Feel free to reach out if you want to chat about statistics, data, technologies, or camping.
 
