@@ -1,6 +1,6 @@
 ---
 title: "📊 Sales Dashboard (R, Flexdashboard, Plotly)"
-excerpt: "visualizing Sales of electronic products"
+excerpt: "Visualizing Sales of Electronic Products <br/><img src='/images/sales_dashboard.png'>"
 collection: portfolio
 ---
 
