@@ -4,7 +4,6 @@ excerpt: "visualizing Sales of electronic products"
 collection: portfolio
 ---
 
-### 📊 Sales Dashboard (R, Flexdashboard, Plotly)
 An interactive sales dashboard that simulates a business dataset and visualizes key performance indicators (KPIs).  
 - Built with **R, Flexdashboard, Plotly, and ggplot2**  
 - Displays KPIs: total revenue, customers, and units sold  
