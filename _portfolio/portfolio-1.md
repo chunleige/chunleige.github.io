@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 An interactive sales dashboard simulating a business dataset with key performance indicators (KPIs) and visual analytics.
+
 **Features:**
 - Built with **R, Flexdashboard, Plotly, and ggplot2**  
 - Displays KPIs: total revenue, customers, and units sold  
