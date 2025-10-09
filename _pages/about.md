@@ -20,8 +20,12 @@ I’m always seeking new challenges and opportunities for growth. Feel free to r
 *The natural beauty of lakes and mountains is utterly captivating — Bow Lake at Banff National Park, Aug 2025*
 
 
-### Milestones
+### News
 
+- **07/2025:** Presented at Maud Menten Institute HQP Summit at the University of Alberta in Edmonton, Alberta 
+- **06/2025:** Presented at WNAR conference at Whistler, BC
+- **05/2025:** Presented at SSC conference at the University of Saskatchewan in Saskatoon, Saskatchewan
+- **06/2024:** Presented at CSSC conference at Memorial University in St. John's, Newfoundland.
 - **05/2024:** Completed my Ph.D. proposal defense and advanced to a Ph.D. candidate.
 - **02/2020:** Received the admission offer from UBCO.
 
