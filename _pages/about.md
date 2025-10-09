@@ -22,5 +22,5 @@ I’m always seeking new challenges and opportunities for growth. Feel free to r
 
 ### News
 
-* [05/2025]: Completed my Ph.D. proposal defense and advanced to a Ph.D. candidate.
+- **05/2025:** Completed my Ph.D. proposal defense and advanced to a Ph.D. candidate.
 
