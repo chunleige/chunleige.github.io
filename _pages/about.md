@@ -22,6 +22,7 @@ I’m always seeking new challenges and opportunities for growth. Feel free to r
 
 ### News
 
+- **10/2025:** Reviewed paper on the Journal, Communications in Statistics - Simulation and Computation 
 - **07/2025:** Presented at Maud Menten Institute HQP Summit at the University of Alberta in Edmonton, Alberta 
 - **06/2025:** Presented at WNAR conference at Whistler, BC
 - **05/2025:** Presented at SSC conference at the University of Saskatchewan in Saskatoon, Saskatchewan
