@@ -1,0 +1,56 @@
+# ─────────────────────────────────────────────────────────────
+#  Site settings. You rarely need to touch this file.
+#  To add a page to the menu: add a line under navbar → left.
+# ─────────────────────────────────────────────────────────────
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - projects/          # the interactive sales dashboard (copied as-is)
+
+website:
+  title: "Chunlei (Ivyann) Ge"
+  description: "Statistician and data scientist. PhD in Statistics, UBC Okanagan."
+  site-url: https://chunleige.github.io
+  favicon: images/favicon.ico
+  open-graph: true
+  page-navigation: false
+  back-to-top-navigation: true
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:ivygecl@gmail.com
+        aria-label: Email
+      - icon: github
+        href: https://github.com/chunleige
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/chunleige
+        aria-label: LinkedIn
+
+  page-footer:
+    left: "© 2026 Chunlei Ge"
+    right: "Made with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [litera, theme.scss]
+      dark: [litera, theme.scss, theme-dark.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

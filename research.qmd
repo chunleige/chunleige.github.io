@@ -1,0 +1,43 @@
+---
+title: "Research"
+subtitle: "Differential equation-constrained local polynomial regression"
+---
+
+## The problem
+
+Many processes follow a known kind of dynamic, such as exponential growth, a burning rate or the course of an epidemic, but real data about them are often **sparse, irregular or clustered**. Standard curve-fitting methods lose accuracy exactly where the data are thinnest, while fully parametric differential-equation models break down when the assumed equation is only approximately right.
+
+## My approach
+
+My PhD thesis, *Differential Equation-Constrained Local Polynomial Regression Models* (UBC Okanagan, 2026; supervisor Dr. W. John Braun), develops a unified framework, **DE-LPR**, that builds differential-equation information directly into local polynomial regression. The estimator borrows structure from the equation where data are scarce and stays flexible where they are plentiful.
+
+The framework covers five model classes:
+
+1. **Exponential growth**: first-order ODE constraints, with theory for bias, variance and bandwidth selection
+2. **Quasi-exponential growth**: growth rates that drift over time
+3. **General linear ODEs**
+4. **General nonlinear ODEs**, benchmarked against parameter-cascade (PCODE) methods
+5. **Second- and higher-order ODEs**
+
+Across these, the DE-constrained estimators achieve **lower asymptotic bias** than conventional local polynomial estimators of the same degree while keeping comparable variance, and they perform markedly better under sparse designs.
+
+## Applications
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+#### 🔥 Fire science
+Estimating burning-rate curves from firebrand data (Albini, 1979).
+:::
+::: {.g-col-12 .g-col-md-4}
+#### 🦠 Epidemiology
+SIR-based epidemic detection and reproduction-number estimation using Korean influenza-like-illness surveillance data.
+:::
+::: {.g-col-12 .g-col-md-4}
+#### 🧬 Oncology
+Tumour-growth curves from sparse longitudinal measurements.
+:::
+:::
+
+## Outputs
+
+The work has produced a journal article, several preprints and a workshop paper. See [Publications](publications.qmd) for the full list.

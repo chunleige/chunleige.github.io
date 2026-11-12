@@ -1,0 +1,17 @@
+---
+title: "Talks"
+---
+
+<!--
+  HOW TO ADD A TALK: copy one <li> ... </li> line and edit it.
+  To add the talk title, put it in <em>...</em> before the venue.
+  To link slides, upload the PDF to the files/ folder and add: <a href="files/slides.pdf">Slides</a>
+-->
+
+<ul class="news">
+<li><span class="when">Jul 2026</span><span>PhD thesis defence, University of British Columbia (Okanagan), Kelowna, BC</span></li>
+<li><span class="when">Jul 2025</span><span>Maud Menten Institute HQP Summit, University of Alberta, Edmonton, AB</span></li>
+<li><span class="when">Jun 2025</span><span>WNAR Annual Meeting (Western North American Region of the International Biometric Society), Whistler, BC</span></li>
+<li><span class="when">May 2025</span><span>Statistical Society of Canada (SSC) Annual Meeting, University of Saskatchewan, Saskatoon, SK</span></li>
+<li><span class="when">Jun 2024</span><span>Canadian Statistics Student Conference (CSSC), Memorial University, St. John's, NL</span></li>
+</ul>

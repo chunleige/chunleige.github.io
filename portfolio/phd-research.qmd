@@ -1,0 +1,18 @@
+---
+title: "Curve Estimation from Sparse Data"
+description: "PhD research: differential equation-constrained regression applied to fire, epidemic and tumour-growth data."
+date: 2026-07-23
+categories: [R, Nonparametric regression, ODEs, Simulation]
+image: ../images/research-card.png
+---
+
+My PhD work developed statistical methods that combine differential equations with local polynomial regression, so that curves can be estimated accurately even where data are sparse.
+
+**Highlights**
+
+- Built a unified estimation framework covering exponential, quasi-exponential, linear, nonlinear and higher-order ODE models
+- Proved lower asymptotic bias than standard local polynomial estimators at comparable variance
+- Ran extensive simulation studies under uniform and sparse designs
+- Applied the methods to firebrand burning-rate data, Korean influenza surveillance data and tumour growth
+
+[Read more on the Research page →](../research.qmd)

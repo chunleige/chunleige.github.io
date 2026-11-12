@@ -1,0 +1,53 @@
+---
+title: "Publications"
+subtitle: "Also on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=6I7bWicAAAAJ) and [arXiv](http://arxiv.org/a/ge_c_3)"
+---
+
+<!--
+  HOW TO ADD A PAPER: copy one <div class="pub"> ... </div> block and edit it.
+  Put the newest items at the top of each section.
+-->
+
+## Journal articles
+
+<div class="pub">
+<span class="pub-title">Differential equation-constrained local regression for data with sparse design</span>
+<span class="pub-meta">**Ge, C.** & Braun, W. J. (2026). *Communications in Statistics: Simulation and Computation*, 1–16. Taylor & Francis.</span><br>
+<span class="pub-meta">[arXiv:2507.06409](https://arxiv.org/abs/2507.06409)</span>
+</div>
+
+## Conference proceedings
+
+<div class="pub">
+<span class="pub-title">AI, the SIR model, and data sharpened kernel smoothing</span>
+<span class="pub-meta">Braun, W. J., Nah, K. & **Ge, C.** (2026). *Proceedings of the SECURE-AI4H Workshop at AAAI 2026*, Communications in Computer and Information Science. Springer. <span class="badge text-bg-light">In press</span></span>
+</div>
+
+## Preprints
+
+<div class="pub">
+<span class="pub-title">Nonparametric estimation under general nonlinear ODE constraints: A comparison with parametric ODE-fitting methods</span>
+<span class="pub-meta">**Ge, C.** & Braun, W. J. (2026). [arXiv:2608.05081](https://arxiv.org/abs/2608.05081)</span>
+</div>
+
+<div class="pub">
+<span class="pub-title">Local quasi-linear models: Kernel differential equation regression and fire data analysis</span>
+<span class="pub-meta">**Ge, C.** & Braun, W. J. (2026). [arXiv:2608.03306](https://arxiv.org/abs/2608.03306)</span>
+</div>
+
+<div class="pub">
+<span class="pub-title">Differential equation-constrained exponential-type local polynomial regression under model misspecification</span>
+<span class="pub-meta">**Ge, C.** & Braun, W. J. (2026). [arXiv:2607.25248](https://arxiv.org/abs/2607.25248)</span>
+</div>
+
+<div class="pub">
+<span class="pub-title">Local quasi-exponential growth models: Kernel differential equation regression and sparse data</span>
+<span class="pub-meta">**Ge, C.** & Braun, W. J. (2025). [arXiv:2505.00231](https://arxiv.org/abs/2505.00231)</span>
+</div>
+
+## Thesis
+
+<div class="pub">
+<span class="pub-title">Differential Equation-Constrained Local Polynomial Regression Models</span>
+<span class="pub-meta">PhD thesis, University of British Columbia (Okanagan), 2026. Supervisor: Dr. W. John Braun.</span>
+</div>
