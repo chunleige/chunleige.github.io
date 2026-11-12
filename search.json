@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Many processes follow a known kind of dynamic, such as exponential growth, a burning rate or the course of an epidemic, but real data about them are often sparse, irregular or clustered. Standard curve-fitting methods lose accuracy exactly where the data are thinnest, while fully parametric differential-equation models break down when the assumed equation is only approximately right."
+  },
+  {
+    "objectID": "research.html#the-problem",
+    "href": "research.html#the-problem",
+    "title": "Research",
+    "section": "",
+    "text": "Many processes follow a known kind of dynamic, such as exponential growth, a burning rate or the course of an epidemic, but real data about them are often sparse, irregular or clustered. Standard curve-fitting methods lose accuracy exactly where the data are thinnest, while fully parametric differential-equation models break down when the assumed equation is only approximately right."
+  },
+  {
+    "objectID": "research.html#my-approach",
+    "href": "research.html#my-approach",
+    "title": "Research",
+    "section": "My approach",
+    "text": "My approach\nMy PhD thesis, Differential Equation-Constrained Local Polynomial Regression Models (UBC Okanagan, 2026; supervisor Dr. W. John Braun), develops a unified framework, DE-LPR, that builds differential-equation information directly into local polynomial regression. The estimator borrows structure from the equation where data are scarce and stays flexible where they are plentiful.\nThe framework covers five model classes:\n\nExponential growth: first-order ODE constraints, with theory for bias, variance and bandwidth selection\nQuasi-exponential growth: growth rates that drift over time\nGeneral linear ODEs\nGeneral nonlinear ODEs, benchmarked against parameter-cascade (PCODE) methods\nSecond- and higher-order ODEs\n\nAcross these, the DE-constrained estimators achieve lower asymptotic bias than conventional local polynomial estimators of the same degree while keeping comparable variance, and they perform markedly better under sparse designs."
+  },
+  {
+    "objectID": "research.html#applications",
+    "href": "research.html#applications",
+    "title": "Research",
+    "section": "Applications",
+    "text": "Applications\n\n\n🔥 Fire science\nEstimating burning-rate curves from firebrand data (Albini, 1979).\n\n\n🦠 Epidemiology\nSIR-based epidemic detection and reproduction-number estimation using Korean influenza-like-illness surveillance data.\n\n\n🧬 Oncology\nTumour-growth curves from sparse longitudinal measurements."
+  },
+  {
+    "objectID": "research.html#outputs",
+    "href": "research.html#outputs",
+    "title": "Research",
+    "section": "Outputs",
+    "text": "Outputs\nThe work has produced a journal article, several preprints and a workshop paper. See Publications for the full list."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Curve Estimation from Sparse Data\n\n\n\nR\n\nNonparametric regression\n\nODEs\n\nSimulation\n\n\n\nPhD research: differential equation-constrained regression applied to fire, epidemic and tumour-growth data.\n\n\n\n\n\n\n\n\n\n\n\n\nSales Dashboard\n\n\n\nR\n\nFlexdashboard\n\nPlotly\n\nggplot2\n\n\n\nAn interactive business dashboard with KPIs, revenue trends, regional sales and top products, built in R.\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PhD in Mathematics (Statistics), University of British Columbia (Okanagan), Kelowna, BC Sep 2020 – Sep 2026\n\nThesis: Differential Equation-Constrained Local Polynomial Regression Models. Supervisor: Dr. W. John Braun.\n\nMA in Statistics, York University, Toronto, ON 2015"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PhD in Mathematics (Statistics), University of British Columbia (Okanagan), Kelowna, BC Sep 2020 – Sep 2026\n\nThesis: Differential Equation-Constrained Local Polynomial Regression Models. Supervisor: Dr. W. John Braun.\n\nMA in Statistics, York University, Toronto, ON 2015"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nGraduate Research Assistant, University of British Columbia (Okanagan) 2020 – 2026\n\n\nDeveloped differential equation-constrained nonparametric regression methods for sparse data, with theory, simulation studies and software in R\nApplied the methods to fire-science, epidemic surveillance and tumour-growth data\nWrote one journal article, one conference paper and four preprints, and presented at four national and regional conferences\n\n\nGraduate Teaching Assistant, University of British Columbia (Okanagan) 2020 – 2026\n\n\nTaught and supported undergraduate courses in mathematics, statistics and data science"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nStatistics: statistical modelling, nonparametric and local polynomial regression, differential-equation models, simulation studies, epidemic (SIR) modelling, bandwidth selection\nProgramming: R, Python, SAS, SQL, Git\nCommunication & tools: LaTeX, Quarto / R Markdown, Shiny / Flexdashboard, data visualization"
+  },
+  {
+    "objectID": "cv.html#publications-talks",
+    "href": "cv.html#publications-talks",
+    "title": "Curriculum Vitae",
+    "section": "Publications & talks",
+    "text": "Publications & talks\nSee Publications and Talks."
+  },
+  {
+    "objectID": "cv.html#service",
+    "href": "cv.html#service",
+    "title": "Curriculum Vitae",
+    "section": "Service",
+    "text": "Service\n\nPeer reviewer, Communications in Statistics: Simulation and Computation (2025)"
+  },
+  {
+    "objectID": "portfolio/sales-dashboard.html",
+    "href": "portfolio/sales-dashboard.html",
+    "title": "Sales Dashboard",
+    "section": "",
+    "text": "An interactive sales dashboard for an electronics retailer, built on a simulated business dataset and designed to work like a real analytics tool.\nOpen the live dashboard ↗"
+  },
+  {
+    "objectID": "portfolio/sales-dashboard.html#features",
+    "href": "portfolio/sales-dashboard.html#features",
+    "title": "Sales Dashboard",
+    "section": "Features",
+    "text": "Features\n\nKPIs at a glance: total revenue, number of customers, units sold\nInteractive charts: revenue over time, sales by region, top products and top customers\nBuilt with R, Flexdashboard, Plotly and ggplot2"
+  },
+  {
+    "objectID": "portfolio/phd-research.html",
+    "href": "portfolio/phd-research.html",
+    "title": "Curve Estimation from Sparse Data",
+    "section": "",
+    "text": "My PhD work developed statistical methods that combine differential equations with local polynomial regression, so that curves can be estimated accurately even where data are sparse.\nHighlights\n\nBuilt a unified estimation framework covering exponential, quasi-exponential, linear, nonlinear and higher-order ODE models\nProved lower asymptotic bias than standard local polynomial estimators at comparable variance\nRan extensive simulation studies under uniform and sparse designs\nApplied the methods to firebrand burning-rate data, Korean influenza surveillance data and tumour growth\n\nRead more on the Research page →\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Jul 2026PhD thesis defence, University of British Columbia (Okanagan), Kelowna, BC\n\n\nJul 2025Maud Menten Institute HQP Summit, University of Alberta, Edmonton, AB\n\n\nJun 2025WNAR Annual Meeting (Western North American Region of the International Biometric Society), Whistler, BC\n\n\nMay 2025Statistical Society of Canada (SSC) Annual Meeting, University of Saskatchewan, Saskatoon, SK\n\n\nJun 2024Canadian Statistics Student Conference (CSSC), Memorial University, St. John’s, NL\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Differential equation-constrained local regression for data with sparse design Ge, C. & Braun, W. J. (2026). Communications in Statistics: Simulation and Computation, 1–16. Taylor & Francis. arXiv:2507.06409"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Differential equation-constrained local regression for data with sparse design Ge, C. & Braun, W. J. (2026). Communications in Statistics: Simulation and Computation, 1–16. Taylor & Francis. arXiv:2507.06409"
+  },
+  {
+    "objectID": "publications.html#conference-proceedings",
+    "href": "publications.html#conference-proceedings",
+    "title": "Publications",
+    "section": "Conference proceedings",
+    "text": "Conference proceedings\n\nAI, the SIR model, and data sharpened kernel smoothing Braun, W. J., Nah, K. & Ge, C. (2026). Proceedings of the SECURE-AI4H Workshop at AAAI 2026, Communications in Computer and Information Science. Springer. In press"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nNonparametric estimation under general nonlinear ODE constraints: A comparison with parametric ODE-fitting methods Ge, C. & Braun, W. J. (2026). arXiv:2608.05081\n\n\nLocal quasi-linear models: Kernel differential equation regression and fire data analysis Ge, C. & Braun, W. J. (2026). arXiv:2608.03306\n\n\nDifferential equation-constrained exponential-type local polynomial regression under model misspecification Ge, C. & Braun, W. J. (2026). arXiv:2607.25248\n\n\nLocal quasi-exponential growth models: Kernel differential equation regression and sparse data Ge, C. & Braun, W. J. (2025). arXiv:2505.00231"
+  },
+  {
+    "objectID": "publications.html#thesis",
+    "href": "publications.html#thesis",
+    "title": "Publications",
+    "section": "Thesis",
+    "text": "Thesis\n\nDifferential Equation-Constrained Local Polynomial Regression Models PhD thesis, University of British Columbia (Okanagan), 2026. Supervisor: Dr. W. John Braun."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chunlei (Ivyann) Ge",
+    "section": "",
+    "text": "Statistician & Data Scientist · PhD in Statistics, UBC Okanagan · Kelowna, BC\nI am a statistician who builds models that stay reliable when data are messy, sparse or expensive to collect. I completed my PhD in Statistics at the University of British Columbia (Okanagan) in 2026, where my research combined differential equations with nonparametric regression to estimate growth and decay curves from limited data, with applications in fire science, epidemiology and oncology.\nAlongside research, I spent several years as a graduate teaching assistant for mathematics, statistics and data courses, so I am used to explaining technical results to people who aren’t statisticians. I also hold an MA in Statistics from York University.\nI’m looking for roles in statistics, data science and analytics where careful modelling makes a real difference to decisions."
+  },
+  {
+    "objectID": "index.html#what-i-work-with",
+    "href": "index.html#what-i-work-with",
+    "title": "Chunlei (Ivyann) Ge",
+    "section": "What I work with",
+    "text": "What I work with\n\nStatistical modelling Nonparametric regression Differential equations Simulation studies Epidemic modelling Data visualization Dashboards\n\n\nR Python SAS SQL Git LaTeX Quarto / R Markdown Shiny / Flexdashboard"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Chunlei (Ivyann) Ge",
+    "section": "News",
+    "text": "News\n\n\nSep 2026PhD in Statistics conferred by the University of British Columbia.\n\n\nJul 2026Successfully defended my PhD thesis, Differential Equation-Constrained Local Polynomial Regression Models.\n\n\n2026Paper with W. John Braun published in Communications in Statistics: Simulation and Computation.\n\n\nOct 2025Reviewed a paper for Communications in Statistics: Simulation and Computation.\n\n\nJul 2025Presented at the Maud Menten Institute HQP Summit, University of Alberta, Edmonton.\n\n\nJun 2025Presented at the WNAR Annual Meeting, Whistler, BC.\n\n\nMay 2025Presented at the SSC Annual Meeting, University of Saskatchewan, Saskatoon.\n\n\nJun 2024Presented at the CSSC, Memorial University, St. John’s, NL."
+  },
+  {
+    "objectID": "index.html#outside-work",
+    "href": "index.html#outside-work",
+    "title": "Chunlei (Ivyann) Ge",
+    "section": "Outside work",
+    "text": "Outside work\nI love exploring nature and connecting with plants, and when inspiration strikes I paint watercolours of landscapes and flowers. Feel free to reach out about statistics, data, technology or camping.\n\n\n\nBow Lake, Banff National Park, August 2025"
+  }
+]
