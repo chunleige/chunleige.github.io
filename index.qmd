@@ -12,7 +12,7 @@ about:
       href: mailto:ivygecl@gmail.com
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/chunleige
+      href: https://www.linkedin.com/in/chunlei-ge-40741969/
     - icon: github
       text: GitHub
       href: https://github.com/chunleige
