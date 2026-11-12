@@ -28,7 +28,8 @@ Thesis: *Differential Equation-Constrained Local Polynomial Regression Models*. 
 [Sep 2026 – present]{.cv-when}
 :::
 
--
+- Lead the statistical design and analysis for design-of-experiments investigations of an aerospace communications product, working with engineering and management teams
+- Designed a split-plot screening experiment and wrote the design document, which serves as a statistical analysis plan: pre-specified analysis model and reference levels, randomization scheme and balance checks, and explicit assumptions and limitations
 
 ::: {.cv-row}
 **Graduate Research Assistant**, University of British Columbia (Okanagan)
