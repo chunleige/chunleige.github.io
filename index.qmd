@@ -1,5 +1,5 @@
 ---
-title: "Chunlei (Ivyann) Ge"
+title: "Chunlei Ge"
 pagetitle: "Chunlei Ge | Statistician & Data Scientist"
 image: images/Chunlei_Ge.jpg
 about:
@@ -50,7 +50,7 @@ I'm looking for roles in **statistics, data science and analytics** where carefu
 <ul class="news">
 <li><span class="when">Sep 2026</span><span>PhD in Statistics conferred by the University of British Columbia.</span></li>
 <li><span class="when">Jul 2026</span><span>Successfully defended my PhD thesis, <em>Differential Equation-Constrained Local Polynomial Regression Models</em>.</span></li>
-<li><span class="when">2026</span><span>Paper with W. John Braun published in <em>Communications in Statistics: Simulation and Computation</em>.</span></li>
+<li><span class="when">June 2026</span><span>Paper with W. John Braun published in <em>Communications in Statistics: Simulation and Computation</em>.</span></li>
 <li><span class="when">Oct 2025</span><span>Reviewed a paper for <em>Communications in Statistics: Simulation and Computation</em>.</span></li>
 <li><span class="when">Jul 2025</span><span>Presented at the Maud Menten Institute HQP Summit, University of Alberta, Edmonton.</span></li>
 <li><span class="when">Jun 2025</span><span>Presented at the WNAR Annual Meeting, Whistler, BC.</span></li>
