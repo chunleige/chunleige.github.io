@@ -24,6 +24,13 @@ Thesis: *Differential Equation-Constrained Local Polynomial Regression Models*. 
 ## Experience
 
 ::: {.cv-row}
+**Statistical Consultant**, Skytrac, Kelowna, BC
+[Sep 2026 – present]{.cv-when}
+:::
+
+-
+
+::: {.cv-row}
 **Graduate Research Assistant**, University of British Columbia (Okanagan)
 [2020 – 2026]{.cv-when}
 :::
