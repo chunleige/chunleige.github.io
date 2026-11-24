@@ -1,0 +1,21 @@
+---
+title: "Wildfire Locations in British Columbia, 2024"
+description: "A map of every BC wildfire in 2024, with each fire sized and coloured by area burned."
+date: 2026-11-24
+categories: [R, sf, ggplot2, ggspatial, GIS, Data visualization]
+image: ../images/bc-wildfire/bc-wildfire-2024.png
+---
+
+![Wildfire locations in British Columbia, 2024. Point size and colour show fire size in hectares.](../images/bc-wildfire/bc-wildfire-2024.png){fig-alt="Map of British Columbia showing 2024 wildfire locations as points, with the largest fires in the northeast, including the Nogah Creek fire, shown as larger, darker points."}
+
+This map shows the location and size of every wildfire recorded in British Columbia in 2024, using data from the BC Wildfire Service.
+
+**What it shows**
+
+- Fires were most numerous in the southern interior, but most of them were small.
+- The area burned was dominated by a handful of very large fires in the northeast, including the Nogah Creek fire.
+
+**How it was made**
+
+- Built in R with **sf** for the spatial data, **ggplot2** for the map, and **ggspatial** for the basemap.
+- Fire size is mapped to both point size and colour, so the largest fires stand out against the many small ones.
