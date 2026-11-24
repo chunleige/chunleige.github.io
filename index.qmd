@@ -31,9 +31,9 @@ about:
 
 I am a statistician who builds models that stay reliable when data are messy, sparse or expensive to collect. I completed my **PhD in Statistics at the University of British Columbia (Okanagan)** in 2026, where my research combined **differential equations with nonparametric regression** to estimate growth and decay curves from limited data, with applications in **fire science, epidemiology and oncology**.
 
-Alongside research, I spent several years as a graduate teaching assistant for mathematics, statistics and data courses, so I am used to explaining technical results to people who aren't statisticians. I also hold an **MA in Statistics from York University**.
+Alongside research, I taught university mathematics for eight years in China and spent several years as a graduate teaching assistant at UBC Okanagan, so I am used to explaining technical results to people who aren't statisticians. I also hold an **MA in Statistics from York University**.
 
-I'm looking for roles in **statistics, data science and analytics** where careful modelling makes a real difference to decisions.
+I currently work as a statistical consultant, and I'm open to roles in statistics, data science and analytics where careful modelling makes a real difference to decisions.
 
 ## What I work with
 
